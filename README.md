@@ -28,6 +28,8 @@ Ideal para fiestas, intercambios y reuniones.
 
 3. Abre el archivo index.html en tu navegador.
 
+---
+
 ## 🖥️ Uso
 
 1. Escribe los nombres de tus amigos en el cuadro de texto "Escribe un nombre".
@@ -35,3 +37,5 @@ Ideal para fiestas, intercambios y reuniones.
 2. Haz click en 'Añadir' para agregar a tu primer amigo, continúa así hasta agregar al último amigo que desees.
 
 3. Haz click en 'Sortear amigo' y la app mostrará "El amigo secreto sorteado: " seleccionado de manera aleatoria.
+
+---
